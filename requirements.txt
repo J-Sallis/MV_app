@@ -4,6 +4,6 @@ plotly==5.11.0
 ridgeplot==0.1.16
 risktools==0.2.7.1
 streamlit==1.16.0
-streamlit-aggrid==0.3.3
+streamlit-aggrid==0.3.4
 altair==4.2.0
 #python 3.9.15
